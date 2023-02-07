@@ -1,2 +1,2 @@
 Non empty README.md
-Updated from github.com interface.
+Updating README.md from github.com interface.
